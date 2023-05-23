@@ -1,6 +1,6 @@
 ### Hi there 👋, Can Yıldız
 #### Game & Android Developer
-![Game & Android Developer]![Game & Android Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Game & Android Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hello, I am 22 years old, I am a 3rd year student at Pamukkale University, Department of Management Information Systems.
 
