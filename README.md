@@ -1,6 +1,6 @@
 ### Hi there 👋, Can Yıldız
 #### Game & Android Developer
-![Game & Android Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Game & Android Developer][![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Cann2000&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 Hello, I am 22 years old, I am a 3rd year student at Pamukkale University, Department of Management Information Systems.
 
