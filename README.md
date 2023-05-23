@@ -1,6 +1,5 @@
 ### Hi there 👋, Can Yıldız
 #### Game & Android Developer
-![Game & Android Developer]
 
 Hello, I am 22 years old, I am a 3rd year student at Pamukkale University, Department of Management Information Systems.
 
