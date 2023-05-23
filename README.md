@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hello, I am 22 years old, I am a 3rd year student at Pamukkale University, Department of Management Information Systems.
+
+You can check out LinkenIn https://www.linkedin.com/in/can-y%C4%B1ld%C4%B1z-6836a21b4/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cann2000)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Cann2000/Cann2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
