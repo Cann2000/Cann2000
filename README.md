@@ -4,8 +4,7 @@
 
 Hello, I am 22 years old, I am a 3rd year student at Pamukkale University, Department of Management Information Systems.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)]
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### Skills 
 * 🎮 Unity 
