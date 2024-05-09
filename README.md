@@ -1,7 +1,7 @@
 ### Hi there 👋, Can Yıldız
 #### Game & Android Developer
 
-Hello, I am 22 years old, I am a 3rd year student at Pamukkale University, Department of Management Information Systems.
+Hello, I am 23 years old, I am a 4rd year student at Pamukkale University, Department of Management Information Systems.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cann2000&show_icons=true&theme=radical)
 
